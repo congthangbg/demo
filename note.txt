@@ -6,4 +6,4 @@ jpa n+1 query problem
 
 MẶc định @ManytoOne & @OnetoOne sử dụng FetchType.EAGER theo mặc định
 ----------
-Diêm Công Thắng
+Diêm Công Thắnggggggg
